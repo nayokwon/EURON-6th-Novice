@@ -17,9 +17,9 @@
 |3주차|03/26|파머완 4장 - Part 1(4.1장 ~  4.4장)|3팀|[📚](https://github.com/Ewha-Euron/6th-Novice/blob/79a0e0821a00ac7c48e9d8b3884a5d95f74d3441/Euron%EC%B4%88%EA%B8%89%EC%84%B8%EC%85%98_3%EC%A1%B0_3%EC%A3%BC%EC%B0%A8.pdf)|
 |4주차|04/02|파머완 4장 - Part 2(4.5장 ~ 4.7장, 4.10장)|1팀|[📚](https://github.com/Ewha-Euron/6th-Novice/blob/05bf111cf808b983d759f4f82ee1298e6df56ea9/Euron_4%EC%A3%BC%EC%B0%A8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
 |5주차|04/09|분류 실습(Kaggle 필사)|2팀|[📚](https://github.com/Ewha-Euron/6th-Novice/blob/1fc0e4ecfdc5e17a50876209f806afded58a60e5/Euron%EC%B4%88%EA%B8%89%ED%8C%80_5%EC%A3%BC%EC%B0%A8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_2%EC%A1%B0.pdf)|
-|6주차|04/16|중간고사 휴식 - 1|||
-|7주차|04/23|중간고사 휴식 - 2|||
-|8주차|04/30|파머완 5장|3팀|[📚]()|
+|6주차|04/16|파머완 5장|3팀|[📚](https://github.com/Ewha-Euron/6th-Novice/blob/abb949b70306ef6a03776912c1ac28e9f88db0c6/Euron%EC%B4%88%EA%B8%89%EC%84%B8%EC%85%98_3%EC%A1%B0_6%EC%A3%BC%EC%B0%A8.pdf)|
+|7주차|04/23|중간고사 휴식 - 1|||
+|8주차|04/30|중간고사 휴식 - 2|||
 |9주차|05/07|회귀 실습(Kaggle 필사)|1팀|[📚]()|
 |10주차|05/14|파머완 6장|2팀|[📚]()|
 |11주차|05/21|파머완 7장|3팀|[📚]()|
