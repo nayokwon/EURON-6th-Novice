@@ -22,7 +22,7 @@
 |8주차|04/30|중간고사 휴식 - 2|||
 |9주차|05/07|회귀 실습(Kaggle 필사)|1팀|[📚](https://github.com/Ewha-Euron/6th-Novice/blob/54cbe7aff0d8123d68e18644ca4f74460333f72d/Week%209_1%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
 |10주차|05/14|파머완 6장|2팀|[📚](https://github.com/Ewha-Euron/6th-Novice/blob/673db12b19bf0a967802a6fbc619d5ba7b19f475/Week10_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
-|11주차|05/21|파머완 7장|3팀|[📚]()|
+|11주차|05/21|파머완 7장|3팀|[📚](https://github.com/Ewha-Euron/6th-Novice/blob/c84a9e8e0d1ef90194f5b0bcdb8d0ed228b540b1/11%EC%A3%BC%EC%B0%A8_%EB%B0%9C%ED%91%9C(%EC%88%98%EC%A0%95).pdf)|
 |12주차|05/28|파머완 8장 - Part 1(8.1 ~ 8.3, 8.5장)|1팀|[📚]()|
 |13주차|06/04|파머완 8장 - Part 2(8.6 ~ 8.9장)|2팀|[📚]()|
 |14주차|06/11|기말고사 휴식기간 - 1|||
